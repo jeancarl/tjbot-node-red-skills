@@ -10,7 +10,7 @@ Today we'll learn how to flash the Raspbian Jessie with Desktop image to a micro
 
 ### Day 2 - Wave
 
-Resources: [GitHub](2-wave) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-wave-in-node-red-62826d269ba5) | [YouTube](https://www.youtube.com/watch?v= uE8pvLttipU)
+Resources: [GitHub](2-wave) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-wave-in-node-red-62826d269ba5) | [YouTube](https://www.youtube.com/watch?v=uE8pvLttipU)
 
 Today we'll train TJBot to wave using the wave node.
 
