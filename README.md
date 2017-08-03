@@ -16,6 +16,12 @@ Today we'll train TJBot to wave using the wave node.
 
 ### Day 3 - Shine
 
+Resources: [GitHub](3-shine) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-wave-in-node-red-62826d269ba5) | [YouTube](https://www.youtube.com/watch?v=8htZriltJuc)
+
+Today we'll train TJBot to shine the LED the color red using the shine node.
+
+### Day 4 - Pulse
+
 coming tomorrow...
 
 ## License
