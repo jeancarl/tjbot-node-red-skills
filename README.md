@@ -22,6 +22,12 @@ Today we'll train TJBot to shine the LED the color red using the shine node.
 
 ### Day 4 - Pulse
 
+Resources: [GitHub](4-pulse) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-pulse-the-led-in-node-red-ca044b2ef63) | [YouTube](https://www.youtube.com/watch?v=AkOWGQjlaXk)
+
+Today we'll train TJBot to pulse the LED the color red using the shine node.
+
+### Day 5 - Listen
+
 coming tomorrow...
 
 ## License
