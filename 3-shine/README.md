@@ -2,7 +2,7 @@
 
 Today we'll train TJBot to turn the LED red using the shine node.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/8htZriltJucE/0.jpg)](https://www.youtube.com/watch?v=8htZriltJuc "Video Title")
+[![Train TJBot to Shine LED in Node-RED ](http://img.youtube.com/vi/8htZriltJucE/0.jpg)](https://www.youtube.com/watch?v=8htZriltJuc&index=6&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV "Train TJBot to Shine LED in Node-RED ")
 
 ## Flow
 
@@ -18,7 +18,7 @@ The flow consists of two nodes, an inject node to trigger the flow, and a shine 
 ## Tips
 
 * The inject node is useful when you want to manually trigger a flow
-* Make sure to enable the LED in the TJBot configuration 
+* Make sure to enable the LED in the TJBot configuration
 
 ## Extra Credit
 

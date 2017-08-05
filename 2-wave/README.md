@@ -2,7 +2,7 @@
 
 Today we'll train TJBot to wave using the wave node.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/uE8pvLttipU/0.jpg)](http://www.youtube.com/watch?v=uE8pvLttipU "Train TJBot to Wave in Node-RED ")
+[![Train TJBot to Wave in Node-RED](http://img.youtube.com/vi/uE8pvLttipU/0.jpg)](http://www.youtube.com/watch?v=uE8pvLttipU&index=5&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV "Train TJBot to Wave in Node-RED")
 
 ## Flow
 
@@ -18,7 +18,7 @@ The flow consists of two nodes, an inject node to trigger the flow, and a wave n
 ## Tips
 
 * The inject node is useful when you want to manually trigger a flow
-* Make sure to enable the servo in the TJBot configuration 
+* Make sure to enable the servo in the TJBot configuration
 
 ## Extra Credit
 

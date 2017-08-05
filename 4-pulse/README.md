@@ -2,7 +2,7 @@
 
 Today we'll train TJBot to pulse the LED red using the shine node and the mode pulse.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/AkOWGQjlaXk/0.jpg)](http://www.youtube.com/watch?v=AkOWGQjlaXk "Train TJBot to Pulse LED in Node-RED")
+[![Train TJBot to Pulse LED in Node-RED](http://img.youtube.com/vi/AkOWGQjlaXk/0.jpg)](http://www.youtube.com/watch?v=AkOWGQjlaXk&index=7&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV "Train TJBot to Pulse LED in Node-RED")
 
 ## Flow
 
@@ -18,7 +18,7 @@ The flow consists of two nodes, an inject node to trigger the flow, and a shine 
 ## Tips
 
 * The inject node is useful when you want to manually trigger a flow.
-* Make sure to enable the LED in the TJBot configuration 
+* Make sure to enable the LED in the TJBot configuration
 
 ## Extra Credit
 
