@@ -2,7 +2,7 @@
 
 Today we'll train TJBot to turn the LED red using the shine node.
 
-[![Train TJBot to Shine LED in Node-RED](http://img.youtube.com/vi/8htZriltJucE/0.jpg)](https://www.youtube.com/watch?v=8htZriltJuc&index=6&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV "Train TJBot to Shine LED in Node-RED")
+[![Train TJBot to Shine LED in Node-RED](http://img.youtube.com/vi/8htZriltJuc/0.jpg)](https://www.youtube.com/watch?v=8htZriltJuc&index=6&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV "Train TJBot to Shine LED in Node-RED")
 
 ## Flow
 
