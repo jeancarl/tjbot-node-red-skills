@@ -42,6 +42,14 @@ Today we’ll train TJBot to listen using the microphone and the Watson Speech t
 
 ## Day 6 - Speak
 
+Resources: [GitHub](6-speak) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-speak-in-node-red-a424d801d5d3) | [YouTube](https://www.youtube.com/watch?v= cOd2FWa4eOw&index=9&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![Speak Flow](6-speak/assets/flow.png)
+
+Today we’ll train TJBot to speak using the spacker and the Watson Text to Speech service.
+
+## Day 7 - See
+
 coming tomorrow...
 
 ## License
