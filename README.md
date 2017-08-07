@@ -50,6 +50,14 @@ Today we’ll train TJBot to speak using the speaker and the Watson Text to Spee
 
 ## Day 7 - See
 
+Resources: [GitHub](7-see) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-see-in-node-red-1821dd0513f6) | [YouTube](https://www.youtube.com/watch?v=8XSo_CaY0rs&index=10&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![See Flow](7-see/assets/flow.png)
+
+Today we’ll train TJBot to see using the Raspberry Pi camera and the Watson Visual Recognition service.
+
+## Day 8 - Analyze Tone
+
 coming tomorrow...
 
 ## License
