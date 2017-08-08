@@ -58,6 +58,14 @@ Today we’ll train TJBot to see using the Raspberry Pi camera and the Watson Vi
 
 ## Day 8 - Analyze Tone
 
+Resources: [GitHub](8-analyze-tone) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-analyze-the-tone-in-node-red-1bd21be75917) | [YouTube](https://www.youtube.com/watch?v=VuopoVT0uCo&index=11&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![See Flow](8-analyze-tone/assets/flow.png)
+
+Today we’ll train TJBot to analyze three types of tones using the Watson Tone Analyzer service.
+
+## Day 9 - Translate
+
 coming tomorrow...
 
 ## License
