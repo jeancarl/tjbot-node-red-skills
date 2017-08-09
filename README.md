@@ -66,6 +66,14 @@ Today we’ll train TJBot to analyze three types of tones using the Watson Tone 
 
 ## Day 9 - Translate
 
+Resources: [GitHub](9-translate) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-translate-in-node-red-dabf272ad9eb) | [YouTube](https://www.youtube.com/watch?v=oIM4dp-mctE&index=12&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![See Flow](9-translate/assets/flow.png)
+
+Today we’ll train TJBot to translate a greeting (for example from English to Spanish) using the Watson Language Translator service.
+
+## Day 10 - Converse
+
 coming tomorrow...
 
 ## License
