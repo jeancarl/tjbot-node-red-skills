@@ -60,7 +60,7 @@ Today we’ll train TJBot to see using the Raspberry Pi camera and the Watson Vi
 
 Resources: [GitHub](8-analyze-tone) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-analyze-the-tone-in-node-red-1bd21be75917) | [YouTube](https://www.youtube.com/watch?v=VuopoVT0uCo&index=11&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
 
-![See Flow](8-analyze-tone/assets/flow.png)
+![Analyze Tone Flow](8-analyze-tone/assets/flow.png)
 
 Today we’ll train TJBot to analyze three types of tones using the Watson Tone Analyzer service.
 
@@ -68,11 +68,19 @@ Today we’ll train TJBot to analyze three types of tones using the Watson Tone 
 
 Resources: [GitHub](9-translate) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-translate-in-node-red-dabf272ad9eb) | [YouTube](https://www.youtube.com/watch?v=oIM4dp-mctE&index=12&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
 
-![See Flow](9-translate/assets/flow.png)
+![Translate Flow](9-translate/assets/flow.png)
 
 Today we’ll train TJBot to translate a greeting (for example from English to Spanish) using the Watson Language Translator service.
 
 ## Day 10 - Converse
+
+Resources: [GitHub](10-converse) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-converse-in-node-red-b46bf765fd4a) | [YouTube](https://www.youtube.com/watch?v=IxQN3CLVt88&index=13&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![Converse Flow](10-converse/assets/flow.png)
+
+Today we’ll train TJBot to respond using the converse node and the Watson Conversation service.
+
+## Day 11 - Emotional LED
 
 coming tomorrow...
 
