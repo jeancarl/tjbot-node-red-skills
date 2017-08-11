@@ -80,7 +80,15 @@ Resources: [GitHub](10-converse) | [Medium](https://medium.com/@jeancarlbisson/t
 
 Today we’ll train TJBot to respond using the converse node and the Watson Conversation service.
 
-## Day 11 - Emotional LED
+## Day 11 - Analyze Emotion
+
+Resources: [GitHub](11-analyze-emotion) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-analyze-emotion-in-node-red-47a8e78b2cb2) | [YouTube](https://www.youtube.com/watch?v=ggED7bpr2dg&index=14&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&t=1s)
+
+![Analyze Emotion](11-analyze-emotion/assets/flow.png)
+
+Today we’ll train TJBot to analyze the emotions of an utterance and light the LED one of five colors representing the emotions anger, disgust, fear, joy, and sadness.
+
+## Day 12 - Identify Language
 
 coming tomorrow...
 
