@@ -82,13 +82,21 @@ Today we’ll train TJBot to respond using the converse node and the Watson Conv
 
 ## Day 11 - Analyze Emotion
 
-Resources: [GitHub](11-analyze-emotion) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-analyze-emotion-in-node-red-47a8e78b2cb2) | [YouTube](https://www.youtube.com/watch?v=ggED7bpr2dg&index=14&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&t=1s)
+Resources: [GitHub](11-analyze-emotion) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-analyze-emotion-in-node-red-47a8e78b2cb2) | [YouTube](https://www.youtube.com/watch?v=ggED7bpr2dg&index=14&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
 
 ![Analyze Emotion](11-analyze-emotion/assets/flow.png)
 
 Today we’ll train TJBot to analyze the emotions of an utterance and light the LED one of five colors representing the emotions anger, disgust, fear, joy, and sadness.
 
 ## Day 12 - Identify Language
+
+Resources: [GitHub](12-identify-language) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-identify-language-in-node-red-34dee98da592) | [YouTube](https://www.youtube.com/watch?v=RNiLn9WV3a0&index=15&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![Identify Language](12-identify-language/assets/flow.png)
+
+Today we’ll train TJBot to identify what language a greeting is in using the translate node and the Watson Language Translator service.
+
+## Day 13 - Identify Language and Translate
 
 coming tomorrow...
 
