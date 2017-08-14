@@ -104,7 +104,15 @@ Resources: [GitHub](13-identify-language-and-translate) | [Medium](https://mediu
 
 Today we’ll train TJBot to identify what language a greeting is in, check if there is a translation model to English, and translate it to English using the translate node and the Watson Language Translator service.
 
-## Day 14 - Spelling Bee
+## Day 14 - Spell Words
+
+Resources: [GitHub](14-spell-words) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-spell-words-in-node-red-9f0a9cc11a90) | [YouTube](https://www.youtube.com/watch?v=lBi5O925PNs&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=17)
+
+![Spell Words](14-spell-words/assets/flow.png)
+
+Today we’ll train TJBot to spell out the letters of words using the speak node and the Watson Text to Speech service.
+
+## Day 15 - Identify Colors
 
 coming tomorrow...
 
