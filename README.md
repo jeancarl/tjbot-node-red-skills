@@ -98,6 +98,14 @@ Today we’ll train TJBot to identify what language a greeting is in using the t
 
 ## Day 13 - Identify Language and Translate
 
+Resources: [GitHub](13-identify-language-and-translate) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-identify-and-translate-greetings-in-node-red-9395b5195fe5) | [YouTube](https://www.youtube.com/watch?v=LPpXVrFXbAY&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=16)
+
+![Identify Language and Translate](13-identify-language-and-translate/assets/flow.png)
+
+Today we’ll train TJBot to identify what language a greeting is in, check if there is a translation model to English, and translate it to English using the translate node and the Watson Language Translator service.
+
+## Day 14 - Spelling Bee
+
 coming tomorrow...
 
 ## License
