@@ -114,6 +114,14 @@ Today we’ll train TJBot to spell out the letters of words using the speak node
 
 ## Day 15 - Identify Colors
 
+Resources: [GitHub](15-identify-colors) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-identify-colors-in-node-red-f99d069e04cf) | [YouTube](https://www.youtube.com/watch?v=utIkn_Qkc_Y&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=18)
+
+![Identify Colors](15-identify-colors/assets/flow.png)
+
+Today we’ll train TJBot to identify colors using the see node and the Watson Visual Recognition service.
+
+## Day 16 - Identify Objects
+
 coming tomorrow...
 
 ## License
