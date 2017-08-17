@@ -122,7 +122,17 @@ Today we’ll train TJBot to identify colors using the see node and the Watson V
 
 ## Day 16 - Identify Objects
 
+Resources: [GitHub](16-identify-objects) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-identify-objects-in-node-red-ab7420141e5f) | [YouTube](https://www.youtube.com/watch?v=AJGhEET2Qzc&index=19&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![Identify Colors](16-identify-objects/assets/flow.png)
+
+Today we’ll train TJBot to identify objects using the see node and the Watson Visual Recognition service.
+
+## Day 17 - Shine Light Intent
+
 coming tomorrow...
+
+
 
 ## License
 
