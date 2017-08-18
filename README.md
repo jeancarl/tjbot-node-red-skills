@@ -130,9 +130,15 @@ Today we’ll train TJBot to identify objects using the see node and the Watson 
 
 ## Day 17 - Shine Light Intent
 
+Resources: [GitHub](17-shine-intent) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-shine-with-an-intent-in-node-red-90c9991e874c) | [YouTube](https://www.youtube.com/watch?v=yG-4wXAdc0A&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=20)
+
+![Shine Light Intent](17-shine-light-intent/assets/flow.png)
+
+Today we’ll train TJBot how to understand natural language and shine the light a color using the converse node and the Watson Conversation service.
+
+## Day 18 - Analyze Language Style
+
 coming tomorrow...
-
-
 
 ## License
 
