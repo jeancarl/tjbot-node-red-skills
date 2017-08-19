@@ -136,7 +136,16 @@ Resources: [GitHub](17-shine-light-intent) | [Medium](https://medium.com/@jeanca
 
 Today we’ll train TJBot how to understand natural language and shine the light a color using the converse node and the Watson Conversation service.
 
-## Day 18 - Analyze Language Style
+## Day 18 - Analyze Language Tones
+
+Resources: [GitHub](18-analyze-language) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-analyze-language-tones-in-node-red-2d4db3bee59b) | [YouTube](https://www.youtube.com/watch?v=YNfDAbj_Ubk&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=21)
+
+![Analyze Language Tones](18-analyze-language/assets/flow.png)
+
+Today we’ll train TJBot how to analyze language tones using the analyze tone node and the Watson Tone Analyzer service.
+
+
+## Day 19 - Wave Intent
 
 coming tomorrow...
 
