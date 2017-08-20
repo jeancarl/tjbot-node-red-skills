@@ -145,7 +145,16 @@ Resources: [GitHub](18-analyze-language) | [Medium](https://medium.com/@jeancarl
 Today we’ll train TJBot how to analyze language tones using the analyze tone node and the Watson Tone Analyzer service.
 
 
-## Day 19 - Wave Intent
+## Day 18 - Wave Intent
+
+Resources: [GitHub](19-wave-intent) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-wave-with-an-intent-in-node-red-dc134b9309b3) | [YouTube](https://www.youtube.com/watch?v=IVWxhUoutWk&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=22)
+
+![Wave Intent](19-wave-intent/assets/flow.png)
+
+Today we'll train TJBot how to understand natural language and move the arm using the converse node and the Watson Conversation service.
+
+
+## Day 19 - Translator
 
 coming tomorrow...
 
