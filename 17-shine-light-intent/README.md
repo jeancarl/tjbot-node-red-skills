@@ -6,7 +6,7 @@ Today we’ll train TJBot how to understand natural language and shine the light
 
 ## Flow
 
-The flow consists of an inject node to run the flow, a see node to recognize objects and colors using the Watson Visual Recognition service, a function node to format the list of colors from the results, and a debug node to output the result to the debug window.
+The flow consists of an inject node to run the flow, a converse node to process the natural language input into intents, entities, and a dialog response using the Watson Conversation service, four switch nodes to check if the shine_light intent and color entity exist, a change node to set the color for the shine node, a shine node to change the LED to the color mentioned, and a debug node to output the response in the debug window.
 
 ![Shine Light Intent Flow](assets/flow.png) 
 
