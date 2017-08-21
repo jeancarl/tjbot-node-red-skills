@@ -156,6 +156,14 @@ Today we'll train TJBot how to understand natural language and move the arm usin
 
 ## Day 20 - Translator
 
+Resources: [GitHub](20-translator) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-be-a-translator-in-node-red-324c4056d5cb) | [YouTube](https://www.youtube.com/watch?v=4RjcFw9imv4&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=23)
+
+![Translator Intent](20-translator/assets/flow.png)
+
+Today we'll train TJBot how to listen, translate, and speak using the listen, translate, and speak nodes and the Watson Speech to Text, Language Translator, and Text to Speech service.
+
+## Day 21 - Lunch Buddy
+
 coming tomorrow...
 
 ## License
