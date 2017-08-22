@@ -162,7 +162,15 @@ Resources: [GitHub](20-translator) | [Medium](https://medium.com/@jeancarlbisson
 
 Today we'll train TJBot how to listen, translate, and speak using the listen, translate, and speak nodes and the Watson Speech to Text, Language Translator, and Text to Speech service.
 
-## Day 21 - Lunch Buddy
+## Day 21 - Suggest A Lunch Spot
+
+Resources: [GitHub](21-suggest-a-lunch-spot) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-suggest-a-lunch-spot-in-node-red-ca97509b8f58) | [YouTube](https://www.youtube.com/watch?v=Eaz_o7cnlaM&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=24)
+
+![Suggest A Lunch Spot](21-suggest-a-lunch-spot/assets/flow.png)
+
+Today we'll train TJBot to suggest a lunch spot using the converse node and the Watson Conversation service.
+
+## Day 22 - Take A Photo And Tweet It
 
 coming tomorrow...
 
