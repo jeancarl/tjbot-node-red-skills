@@ -172,6 +172,14 @@ Today we'll train TJBot to suggest a lunch spot using the converse node and the 
 
 ## Day 22 - Take A Photo And Tweet It
 
+Resources: [GitHub](22-tweet-photo) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-tweet-a-photo-in-node-red-e0342a617e26) | [YouTube](https://www.youtube.com/watch?v=Ejg7B4UvBjI&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=25)
+
+![Take A Photo And Tweet It](22-tweet-photo/assets/flow.png)
+
+Today we'll train TJBot to take a photo with the see node and the Raspberry Pi camera and post it to Twitter.
+
+## Day 23 - Read Direct Messages
+
 coming tomorrow...
 
 ## License
