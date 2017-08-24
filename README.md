@@ -180,6 +180,14 @@ Today we'll train TJBot to take a photo with the see node and the Raspberry Pi c
 
 ## Day 23 - Read Direct Messages
 
+Resources: [GitHub](23-read-direct-messages) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-read-direct-messages-in-node-red-e5efe2f9e49) | [YouTube](https://www.youtube.com/watch?v=5xsEWM7NRbY&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=26)
+
+![Read Direct Messages](23-read-direct-messages/assets/flow.png) 
+
+Today we'll train TJBot to receive direct messages from Twitter and read them aloud using the speak node in Node-RED.
+
+## Day 24 - Recognize Objects and Colors Intent
+
 coming tomorrow...
 
 ## License
