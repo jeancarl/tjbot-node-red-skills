@@ -186,7 +186,16 @@ Resources: [GitHub](23-read-direct-messages) | [Medium](https://medium.com/@jean
 
 Today we'll train TJBot to receive direct messages from Twitter and read them aloud using the speak node in Node-RED.
 
-## Day 24 - Recognize Objects and Colors Intent
+## Day 24 - Play Sounds
+
+Resources: [GitHub](24-play-sounds) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-play-sounds-in-node-red-3c6a4197e9c0) | [YouTube](https://www.youtube.com/watch?v=guoJlkHCHGk&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=27)
+
+![Play Sounds](24-play-sounds/assets/flow.png) 
+
+In this video, we'll train TJBot to play sounds using the speak node in Node-RED.
+
+
+## Day 25 - High or Low
 
 coming tomorrow...
 
