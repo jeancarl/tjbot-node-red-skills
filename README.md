@@ -192,10 +192,17 @@ Resources: [GitHub](24-play-sounds) | [Medium](https://medium.com/@jeancarlbisso
 
 ![Play Sounds](24-play-sounds/assets/flow.png) 
 
-In this video, we'll train TJBot to play sounds using the speak node in Node-RED.
+Today we'll train TJBot to play sounds using the speak node in Node-RED.
 
+## Day 25 - Say The Color Game
 
-## Day 25 - High or Low
+Resources: [GitHub](25-say-the-color) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-play-a-game-of-say-the-color-in-node-red-9cdd0375c421) | [YouTube](https://www.youtube.com/watch?v=cMJP9izsJis&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=28)
+
+![Say The Color Game Flow](25-say-the-color/assets/flow.png) 
+
+Today we'll train TJBot to play a game where the player speaks the name of the color TJBot shines the light.
+
+## Day 26 - High or Low
 
 coming tomorrow...
 
