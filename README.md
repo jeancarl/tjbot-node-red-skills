@@ -202,7 +202,15 @@ Resources: [GitHub](25-say-the-color) | [Medium](https://medium.com/@jeancarlbis
 
 Today we'll train TJBot to play a game where the player speaks the name of the color TJBot shines the light.
 
-## Day 26 - High or Low
+## Day 26 - Measure CPU Temperature
+
+Resources: [GitHub](26-measure-cpu-temperature) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-measure-cpu-temperature-in-node-red-bf2cfc0ddf18) | [YouTube](https://www.youtube.com/watch?v=rXBh7zHM9b4&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV&index=29)
+
+![Measure CPU Temperature Flow](26-measure-cpu-temperature/assets/flow.png) 
+
+Today we'll train TJBot to measure the CPU temperature and speak it out using the speaker and the Watson Text to Speech service.
+
+## Day 27 - High or Low
 
 coming tomorrow...
 
