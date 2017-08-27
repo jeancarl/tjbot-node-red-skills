@@ -210,7 +210,15 @@ Resources: [GitHub](26-measure-cpu-temperature) | [Medium](https://medium.com/@j
 
 Today we'll train TJBot to measure the CPU temperature and speak it out using the speaker and the Watson Text to Speech service.
 
-## Day 27 - High or Low
+## Day 27 - Say Weather Report
+
+Resources: [GitHub](27-weather-report) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-say-the-weather-report-in-node-red-53c49f951609) | [YouTube](https://www.youtube.com/watch?v=vDflosjm75I&index=30&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![Say Weather Report Flow](27-weather-report/assets/flow.png) 
+
+Today we'll train TJBot to say the weather report using the Weather Insights node and the speak node.
+
+## Day 28 - Speak Headlines
 
 coming tomorrow...
 
