@@ -220,6 +220,14 @@ Today we'll train TJBot to say the weather report using the Weather Insights nod
 
 ## Day 28 - Speak Headlines
 
+Resources: [GitHub](28-speak-headlines) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-speak-headlines-in-node-red-26d2de183c21) | [YouTube](https://www.youtube.com/watch?v=12_wa1pR_K8&index=31&list=PLddOPkVMz1dtN3I_4JKava4GBLLXuUevV)
+
+![Speak Headlines Flow](28-speak-headlines/assets/flow.png) 
+
+Today we'll train TJBot to speak the headlines from an RSS feed using the Watson Text to Speech service and the speak node.
+
+## Day 29 - Send a Text Message
+
 coming tomorrow...
 
 ## License
