@@ -226,10 +226,19 @@ Resources: [GitHub](28-speak-headlines) | [Medium](https://medium.com/@jeancarlb
 
 Today we'll train TJBot to speak the headlines from an RSS feed using the Watson Text to Speech service and the speak node.
 
-## Day 29 - Send a Text Message
+## Day 29 - Send A Text Message
+
+Resources: [GitHub](28-speak-headlines) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-send-a-text-message-in-node-red-365157d71bb1) | [YouTube](https://www.youtube.com/watch?v=WQ7LiHp9wKk&index=32&list=PLddOPkVMz1dtN3I_4JKava)
+
+![Send A Text Message Flow](29-send-text-message/assets/flow.png) 
+
+Today we'll train TJBot to listen to the microphone and then send a text message via the Twilio service.
+
+## Day 30 - Analyze Social Tones
 
 coming tomorrow...
 
 ## License
 
 This code is licensed under Apache 2.0. Full license text is available in [LICENSE](LICENSE).
+4GBLLXuUevV
