@@ -228,7 +228,7 @@ Today we'll train TJBot to speak the headlines from an RSS feed using the Watson
 
 ## Day 29 - Send A Text Message
 
-Resources: [GitHub](28-speak-headlines) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-send-a-text-message-in-node-red-365157d71bb1) | [YouTube](https://www.youtube.com/watch?v=WQ7LiHp9wKk&index=32&list=PLddOPkVMz1dtN3I_4JKava)
+Resources: [GitHub](29-send-text-message) | [Medium](https://medium.com/@jeancarlbisson/train-tjbot-to-send-a-text-message-in-node-red-365157d71bb1) | [YouTube](https://www.youtube.com/watch?v=WQ7LiHp9wKk&index=32&list=PLddOPkVMz1dtN3I_4JKava)
 
 ![Send A Text Message Flow](29-send-text-message/assets/flow.png) 
 
